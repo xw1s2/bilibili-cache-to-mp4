@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+bin/
+*.spec
+*.log
+.env
+.env.*
+*.m4s
+*.mp4
+.bili-mp4-*/
